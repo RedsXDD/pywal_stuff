@@ -1,0 +1,14 @@
+[color]
+
+; background = default
+; foreground = default
+gradient = 1
+gradient_count = 4
+gradient_color_1 = '#94E2D5'
+gradient_color_2 = '#89B4FA'
+gradient_color_3 = '#F5C2E7'
+gradient_color_4 = '#F38BA8'
+; gradient_color_5 = '#45475A'
+; gradient_color_6 = '#45475A'
+; gradient_color_7 = '#45475A'
+; gradient_color_8 = '#45475A'

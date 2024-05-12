@@ -1,0 +1,1 @@
+{ "include": ["${XDG_CACHE_HOME:-$HOME/.cache}/wal/colors-waybar-clock.jsonc"] }
